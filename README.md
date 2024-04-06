@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @priyanshp28<br>- 👀 I’m interested in programming and development.<br>- 🌱 I’m currently learning web development, NodeJS, react.<br>- 💞️ I’m looking to collaborate on any project small or big. <br>- 📫 How to reach me? you can mail me at priyanshporwal28@gmail.com
+- 👋 Hi, I’m Priyansh Porwal<br>- 👀 I’m interested in programming and development.<br>- 🌱 I’m currently working on web development, NodeJS, react.<br>- 💞️ I’m looking to collaborate on any project small or big. <br>- 📫 How to reach me? you can mail me at priyanshporwal28@gmail.com
 
 
 ## 🌐 Socials:
